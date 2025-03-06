@@ -1,0 +1,25 @@
+/* comentario */
+body{   
+    background-color: gray;
+
+}
+.pDiferente{
+    color: green;
+/* colores */
+}
+.Pdiferentes{
+    color: #081835;
+}
+/* codigo hexadecimal */
+
+.rgb{
+    color: rgb(53, 41, 8 );
+    background-color: antiquewhite;
+    width: 50%;
+}
+.div_dif{
+    width: 50%;
+    background-color: hsl(235, 93%, 49%);
+    padding: 20px;
+    margin-top: 50px;
+}
