@@ -1,6 +1,6 @@
 /* comentario */
 body{   
-    background-color: gray;
+    background-color: black;
 
 }
 .pDiferente{
@@ -18,8 +18,18 @@ body{
     width: 50%;
 }
 .div_dif{
-    width: 50%;
+    width: 100%;
     background-color: hsl(235, 93%, 49%);
     padding: 20px;
     margin-top: 50px;
+}
+
+html{
+    cursor: none;
+}
+.cursor{
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    mix-blend-mode: difference;
 }
